@@ -11,5 +11,5 @@ print("Hallo, mijn naam is Dev.")
 myName = "Dev"
 print("Hallo, mijn naam is " + myName + ".")
 
-# Template string
+# String interpolation
 print(f"Hallo, mijn naam is {myName}.")

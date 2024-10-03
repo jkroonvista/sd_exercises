@@ -11,5 +11,5 @@ console.log("Hallo, mijn naam is Dev.");
 let myName = "Dev";
 console.log("Hallo, mijn naam is " + myName + ".");
 
-// Template string
+// String interpolation
 console.log(`Hallo, mijn naam is ${myName}.`);

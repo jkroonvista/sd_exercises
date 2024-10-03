@@ -11,5 +11,5 @@ Console.WriteLine("Hallo, mijn naam is Dev.");
 string myName = "Dev";
 Console.WriteLine("Hallo, mijn naam is " + myName + ".");
 
-// Template string
+// String interpolation
 Console.WriteLine($"Hallo, mijn naam is {myName}.");
